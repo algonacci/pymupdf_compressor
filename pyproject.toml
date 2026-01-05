@@ -1,0 +1,11 @@
+[project]
+name = "pymupdf-compressor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pikepdf>=10.1.0",
+    "pillow>=12.1.0",
+    "pymupdf>=1.26.7",
+]
